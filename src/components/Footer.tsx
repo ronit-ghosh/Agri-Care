@@ -1,7 +1,7 @@
 "use client"
 
 import Link from "next/link"
-import { Facebook, Twitter, Linkedin, MapPin, Phone, Mail, ShieldHalf } from "lucide-react"
+import { Facebook, Twitter, Linkedin, MapPin, Phone, Mail } from "lucide-react"
 import { navItems } from "./header"
 
 const quickLinks = navItems
